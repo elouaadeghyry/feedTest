@@ -16,7 +16,7 @@
          <height>114</height>
          <width>114</width>
       </image>
-      <atom:link href=[URL link to your media content] rel="self" type="application/rss+xml" />
+      <atom:link href=https://streamable.com/xvactv rel="self" type="application/rss+xml" />
       <item>
          <title>Shade</title>
          <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
