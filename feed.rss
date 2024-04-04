@@ -33,21 +33,5 @@
             <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
          </media:content>
       </item>
-      <item>
-         <title>Spectators</title>
-         <pubDate>Thu, 12 Oct 2017 00:00:00 -0700</pubDate>
-         <link>[URL link to your media content]</link>
-         <description>"Your worst enemy cannot harm you as much as your own thoughts, unguarded." – Buddha</description>
-         <guid isPermaLink="false">[URL link to your media content]</guid>
-         <media:category>All</media:category>
-         <media:category>Grass</media:category>
-         <media:content url="http://d1nixf144dcz0j.cloudfront.net/spectators.mp4" language="en-us" fileSize="19000000" duration="120.0" medium="video" isDefault="true">
-            <media:title type="plain">Spectators</media:title>
-            <media:description type="html">"Your worst enemy cannot harm you as much as your own thoughts, unguarded." – Buddha</media:description>
-            <media:thumbnail url=[URL link to your media content] />
-            <media:credit role="author" scheme="urn:ebu">Tom Johnson</media:credit>
-            <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
-         </media:content>
-      </item>
    </channel>
 </rss>
