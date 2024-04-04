@@ -42,7 +42,7 @@
          <media:category>All</media:category>
          <media:category>Trail</media:category>
          <media:content url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="false">
-            <media:title type="plain">Shade</media:title>
+            <media:title type="plain">Shade 2</media:title>
             <media:description type="html">Quiet the mind, and the soul will speak. - Ma Jaya Sati Bhagavati</media:description>
             <media:thumbnail url="https://img.freepik.com/free-photo/close-up-bonfire_181624-34.jpg?w=2000" />
             <media:credit role="author" scheme="urn:ebu">Tom Johnson</media:credit>
