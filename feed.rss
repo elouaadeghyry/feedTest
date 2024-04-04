@@ -28,7 +28,7 @@
          <media:content url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
             <media:title type="plain">Shade</media:title>
             <media:description type="html">Quiet the mind, and the soul will speak. - Ma Jaya Sati Bhagavati</media:description>
-            <media:thumbnail url=https://img.freepik.com/free-photo/close-up-bonfire_181624-34.jpg?w=2000 />
+            <media:thumbnail url="https://img.freepik.com/free-photo/close-up-bonfire_181624-34.jpg?w=2000" />
             <media:credit role="author" scheme="urn:ebu">Tom Johnson</media:credit>
             <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
          </media:content>
